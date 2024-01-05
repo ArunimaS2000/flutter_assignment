@@ -37,6 +37,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   lottie: ^2.7.0
   google_fonts: ^6.1.0
+  flutter_randomcolor: ^1.0.14
+  shared_preferences: ^2.2.2
 
 dev_dependencies:
   flutter_test:
@@ -63,7 +65,27 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - asset/image/Animation - 1699111185039.json
-    - asset/image/imageassign.png
+    - asset/image/delhi.jpg
+    - asset/image/finland.jpg
+    - asset/image/london (2).jpg
+    - asset/image/vancouver.jpg
+    - asset/image/Bingxueling-Fruit-Vegetables-Apple-red.256.png
+    - asset/image/Iconarchive-Realistic-Fruits-Mango.512.png
+    - asset/image/Iconicon-Veggies-Bananas.512.png
+    - asset/image/Iconarchive-Realistic-Fruits-Grape.512.png
+    - asset/image/Iconarchive-Realistic-Fruits-Watermelon.512.png
+    - asset/image/Artbees-Paradise-Fruits-Kiwi.512.png
+    - asset/image/Gcds-Chinese-New-Year-Orange.512.png
+    - asset/image/image1.jpeg
+    - asset/image/image2.jpeg
+    - asset/image/image3.jpeg
+    - asset/image/image4.jpeg
+    - asset/image/image5.jpeg
+    - asset/image/image6.jpeg
+    - asset/image/image7.jpeg
+    - asset/image/image8.jpeg
+    - asset/image/Papirus-Team-Papirus-Apps-Manjaro-welcome.512.png
+   
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
